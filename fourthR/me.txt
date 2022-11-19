@@ -1,0 +1,5 @@
+ there are
+different ways to get to git
+for now, i will be trying branch 
+pray this works!
+thanks alot!
